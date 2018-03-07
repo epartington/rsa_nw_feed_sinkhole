@@ -1,0 +1,76 @@
+1,#ioc,#lowercase_no_space,#orig,#ip,#Whois,#Notes,#feed_name
+2,sinkhole_anubis,anubis,Anubis,195.22.26.192/26,anubisnetworks.com,"CAUTION: Broad Range, contains some public web presence. ET signature FPs.",sinkhole_ip_tisiphone
+3,sinkhole_arbor_networks_asert,arbor_networks_asert,Arbor Networks ASERT,23.253.126.58/32,arbor-sinkhole.net,http://www.malwareurl.com/ns_listing.php?ns=ns1.arbor-sinkhole.net,sinkhole_ip_tisiphone
+3,sinkhole_arbor_networks_asert,arbor_networks_asert,Arbor Networks ASERT,168.181.184.35/32,arbor-sinkhole.net,http://www.malwareurl.com/ns_listing.php?ns=ns1.arbor-sinkhole.net,sinkhole_ip_tisiphone
+4,sinkhole_blacklab.io,blacklab.io,Blacklab.io,67.215.255.139/32,sinkhole.blacklab.io,,sinkhole_ip_tisiphone
+5,sinkhole_blacklistthisdomain,blacklistthisdomain,blacklistthisdomain,106.187.96.49/32,sinkhole.blacklistthisdomain.com,,sinkhole_ip_tisiphone
+5,sinkhole_blacklistthisdomain,blacklistthisdomain,blacklistthisdomain,81.166.122.234/32,sinkhole.blacklistthisdomain.com,,sinkhole_ip_tisiphone
+6,sinkhole_botnet_hunter,botnet_hunter,Botnet Hunter,52.5.245.208/32,ec2-52-5-245-208.compute-1.amazonaws.com,,sinkhole_ip_tisiphone
+7,sinkhole_cert_polska,cert_polska,CERT Polska,148.81.111.111/32,sinkhole.cert.pl,,sinkhole_ip_tisiphone
+7,sinkhole_cert_polska,cert_polska,CERT Polska,148.81.111.91/32,sinkhole.cert.pl,,sinkhole_ip_tisiphone
+7,sinkhole_cert_polska,cert_polska,CERT Polska,148.81.111.114/32,sinkhole.cert.pl,,sinkhole_ip_tisiphone
+8,sinkhole_conficker_working_group,conficker_working_group,Conficker Working Group,136.161.101.53/32,conficker-sinkhole.com,,sinkhole_ip_tisiphone
+9,sinkhole_dr._web,dr._web,Dr. Web,91.233.244.106/32,,http://doc.emergingthreats.net/bin/view/Main/2016997,sinkhole_ip_tisiphone
+10,sinkhole_endgame,endgame,Endgame,166.78.144.80/32,s01.snkhole.mal-ware.susp-nded.domain,http://www.kleissner.org,sinkhole_ip_tisiphone
+11,sinkhole_farsight,farsight,Farsight,104.244.12.0/22,sinkhole-iad1-2.cwg.fsi.io,,sinkhole_ip_tisiphone
+12,sinkhole_fbi,fbi,FBI,142.0.36.234/32,VolumeDrive,https://www.proofpoint.com/us/daily-ruleset-update-summary-2014-06-03,sinkhole_ip_tisiphone
+13,sinkhole_fitsec,fitsec,Fitsec,193.166.255.171/32,Funet CERT,,sinkhole_ip_tisiphone
+14,sinkhole_georgia_tech,georgia_tech,Georgia Tech,143.215.130.0/24,Georgia Institute of Technology,"CAUTION: Broad Range, contains MalwareDomainList at 143.215.130.61 (H/T @GrogsAxle)",sinkhole_ip_tisiphone
+15,sinkhole_georgia_tech,georgia_tech,Georgia Tech,198.61.227.6/32,Rackspace,www.kleissner.org,sinkhole_ip_tisiphone
+16,sinkhole_georgia_tech,georgia_tech,Georgia Tech,50.57.148.87/32,Slicehost,www.kleissner.org,sinkhole_ip_tisiphone
+17,sinkhole_gladtech,gladtech,Gladtech,74.200.48.169/32,sinkhole.gladtech.net,,sinkhole_ip_tisiphone
+18,sinkhole_helse_csirt,helse_csirt,Helse CSIRT,91.186.66.36/32,NORWEGIAN-HEALTH-NETWORK,,sinkhole_ip_tisiphone
+19,sinkhole_hyas,hyas,Hyas,192.169.69.25/32,sinkhole.hyas.com,,sinkhole_ip_tisiphone
+20,sinkhole_kaspersky,kaspersky,Kaspersky,93.159.228.22/32,sinkhole.kaspersky.com,,sinkhole_ip_tisiphone
+20,sinkhole_kaspersky,kaspersky,Kaspersky,95.211.172.143/32,sinkhole.kaspersky.com,,sinkhole_ip_tisiphone
+21,sinkhole_malwaredomains,malwaredomains,MalwareDomains,139.146.167.25/32,malwaredomains.com,,sinkhole_ip_tisiphone
+22,sinkhole_microsoft,microsoft,Microsoft,131.253.18.11/32,Microsoft,http://doc.emergingthreats.net/bin/view/Main/2016101,sinkhole_ip_tisiphone
+22,sinkhole_microsoft,microsoft,Microsoft,131.253.18.12/32,Microsoft,http://doc.emergingthreats.net/bin/view/Main/2016101,sinkhole_ip_tisiphone
+23,sinkhole_microsoft,microsoft,Microsoft,199.2.137.0/24,Microsoft,https://lists.emergingthreats.net/pipermail/emerging-sigs/2013-June/022148.html,sinkhole_ip_tisiphone
+24,sinkhole_microsoft,microsoft,Microsoft,204.95.99.59/32,Microsoft,https://lists.emergingthreats.net/pipermail/emerging-sigs/2013-June/022148.html,sinkhole_ip_tisiphone
+25,sinkhole_microsoft,microsoft,Microsoft,207.46.90.0/24,Microsoft,https://lists.emergingthreats.net/pipermail/emerging-sigs/2013-June/022148.html,sinkhole_ip_tisiphone
+26,sinkhole_publicdomainregistry,publicdomainregistry,PublicDomainRegistry,109.74.196.143/32,Linode,www.kleissner.org,sinkhole_ip_tisiphone
+26,sinkhole_publicdomainregistry,publicdomainregistry,PublicDomainRegistry,50.116.56.144/32,Linode,www.kleissner.org,sinkhole_ip_tisiphone
+26,sinkhole_publicdomainregistry,publicdomainregistry,PublicDomainRegistry,50.116.32.177/32,Linode,www.kleissner.org,sinkhole_ip_tisiphone
+26,sinkhole_publicdomainregistry,publicdomainregistry,PublicDomainRegistry,178.79.190.156/32,Linode,www.kleissner.org,sinkhole_ip_tisiphone
+27,sinkhole_shadowserver,shadowserver,Shadowserver,87.106.24.200/32,sinkhole-00.shadowserver.org,,sinkhole_ip_tisiphone
+28,sinkhole_shadowserver,shadowserver,Shadowserver,87.106.26.9/32,sinkhole-01.shadowserver.org,http://marc.info/?l=emerging-sigs&m=135764068231008&w=2,sinkhole_ip_tisiphone
+29,sinkhole_shadowserver,shadowserver,Shadowserver,74.208.64.145/32,sinkhole-02.shadowserver.org,,sinkhole_ip_tisiphone
+30,sinkhole_shadowserver,shadowserver,Shadowserver,74.208.64.191/32,sinkhole-03.shadowserver.org,,sinkhole_ip_tisiphone
+31,sinkhole_shadowserver,shadowserver,Shadowserver,74.208.164.166/32,sinkhole-04.shadowserver.org,,sinkhole_ip_tisiphone
+32,sinkhole_shadowserver,shadowserver,Shadowserver,212.227.55.84/32,sinkhole.shadowserver.org,,sinkhole_ip_tisiphone
+33,sinkhole_shadowserver,shadowserver,Shadowserver,74.208.15.160/32,sinkhole.shadowserver.org,,sinkhole_ip_tisiphone
+34,sinkhole_shadowserver,shadowserver,Shadowserver,74.208.15.97/32,sinkhole.shadowserver.org,,sinkhole_ip_tisiphone
+35,sinkhole_shadowserver,shadowserver,Shadowserver,87.106.250.34/32,sinkhole.shadowserver.org,http://marc.info/?l=emerging-sigs&m=135764068231008&w=2,sinkhole_ip_tisiphone
+36,sinkhole_shadowserver,shadowserver,Shadowserver,87.106.86.28/32,sinkhole.shadowserver.org,http://marc.info/?l=emerging-sigs&m=135764068231008&w=2,sinkhole_ip_tisiphone
+37,sinkhole_shadowserver,shadowserver,Shadowserver,178.162.203.226/32,sinkhole-02.shadowserver.org,,sinkhole_ip_tisiphone
+38,sinkhole_shadowserver,shadowserver,Shadowserver,178.162.203.202/32,sinkhole-03.shadowserver.org,,sinkhole_ip_tisiphone
+39,sinkhole_sidn_labs,sidn_labs,SIDN Labs,176.58.104.168/32,sinkhole.sidnlabs.nl,,sinkhole_ip_tisiphone
+40,sinkhole_sinkhole_security,sinkhole_security,Sinkhole Security,46.165.240.181/32,botsmustdie[@]gmail.com,https://www.threatcrowd.org/domain.php?domain=NS2.SUGARBUCKET.US,sinkhole_ip_tisiphone
+41,sinkhole_sinkhole.dk,sinkhole.dk,sinkhole.DK,212.227.20.19/32,sinkhole.dk,,sinkhole_ip_tisiphone
+42,sinkhole_sinkhole.in,sinkhole.in,sinkhole.in,86.124.164.25/32,sinkhole.in,,sinkhole_ip_tisiphone
+43,sinkhole_sinkhole.ru,sinkhole.ru,sinkhole.ru,109.70.26.37/32,sinkhole.ru,"X-RU-Sinkhole: In Soviet Russia, Malware Sinkholes you!",sinkhole_ip_tisiphone
+43,sinkhole_sinkhole.ru,sinkhole.ru,sinkhole.ru,194.85.61.76/32,sinkhole.ru,"X-RU-Sinkhole: In Soviet Russia, Malware Sinkholes you!",sinkhole_ip_tisiphone
+43,sinkhole_sinkhole.ru,sinkhole.ru,sinkhole.ru,95.211.230.75/32,sinkhole.ru,"X-RU-Sinkhole: In Soviet Russia, Malware Sinkholes you!",sinkhole_ip_tisiphone
+44,sinkhole_sinkhole.tech,sinkhole.tech,sinkhole.tech,79.137.66.14/32,http3.sinkhole.tech,,sinkhole_ip_tisiphone
+45,sinkhole_sinkhole.tech,sinkhole.tech,sinkhole.tech,95.211.174.92/32,sinkhole.tech,,sinkhole_ip_tisiphone
+46,sinkhole_sinkhole.tech,sinkhole.tech,sinkhole.tech,144.217.254.3/32,http4.sinkhole.tech,,sinkhole_ip_tisiphone
+47,sinkhole_sinkhole.tech,sinkhole.tech,sinkhole.tech,217.182.172.139/32,http1.sinkhole.tech,,sinkhole_ip_tisiphone
+48,sinkhole_sinkhole.tech,sinkhole.tech,sinkhole.tech,144.217.74.156/32,http2.sinkhole.tech,,sinkhole_ip_tisiphone
+49,sinkhole_sisra_abuse.ch,sisra_abuse.ch,SISRA Abuse.ch,104.155.11.149/32,this-domain-is-sinkholed-by.abuse.ch,,sinkhole_ip_tisiphone
+50,sinkhole_spamhaus,spamhaus,Spamhaus,208.43.245.213/32,sl-reverse.com,,sinkhole_ip_tisiphone
+50,sinkhole_spamhaus,spamhaus,Spamhaus,173.192.192.10/32,sl-reverse.com,,sinkhole_ip_tisiphone
+50,sinkhole_spamhaus,spamhaus,Spamhaus,199.231.211.108/32,sl-reverse.com,,sinkhole_ip_tisiphone
+50,sinkhole_spamhaus,spamhaus,Spamhaus,198.98.120.157/32,sl-reverse.com,,sinkhole_ip_tisiphone
+50,sinkhole_spamhaus,spamhaus,Spamhaus,192.42.116.41/32,sl-reverse.com,,sinkhole_ip_tisiphone
+50,sinkhole_spamhaus,spamhaus,Spamhaus,87.255.51.229/32,sl-reverse.com,,sinkhole_ip_tisiphone
+51,sinkhole_team_cymru,team_cymru,Team Cymru,38.102.150.29/32,conficker-sinkhole.net,,sinkhole_ip_tisiphone
+51,sinkhole_team_cymru,team_cymru,Team Cymru,38.229.70.125/32,conficker-sinkhole.net,,sinkhole_ip_tisiphone
+52,sinkhole_torpig-sinkhole,torpig-sinkhole,Torpig-Sinkhole,212.227.55.84/32,torpig-sinkhole.org,,sinkhole_ip_tisiphone
+52,sinkhole_torpig-sinkhole,torpig-sinkhole,Torpig-Sinkhole,87.106.240.162/32,torpig-sinkhole.org,,sinkhole_ip_tisiphone
+52,sinkhole_torpig-sinkhole,torpig-sinkhole,Torpig-Sinkhole,87.106.140.254/32,torpig-sinkhole.org,,sinkhole_ip_tisiphone
+52,sinkhole_torpig-sinkhole,torpig-sinkhole,Torpig-Sinkhole,87.106.141.15/32,torpig-sinkhole.org,,sinkhole_ip_tisiphone
+53,sinkhole_wapack_labs,wapack_labs,Wapack Labs,23.253.46.64/32,,https://wapacklabs.blogspot.com/2016/07/wapack-labs-sinkhole-results-18.html,sinkhole_ip_tisiphone
+54,sinkhole_zinkhole.org,zinkhole.org,Zinkhole.org,176.31.62.76/32,suspended-domain.org,,sinkhole_ip_tisiphone
+54,sinkhole_zinkhole.org,zinkhole.org,Zinkhole.org,178.32.140.251/32,suspended-domain.org,,sinkhole_ip_tisiphone
+54,sinkhole_zinkhole.org,zinkhole.org,Zinkhole.org,94.23.175.2/32,suspended-domain.org,,sinkhole_ip_tisiphone
